@@ -92,7 +92,7 @@ div  p{
     display:block;
 }  
 .project{
-    background-image: url(asset/bg3.jpg);
+    background-image: url(bg3.jpg);
     height: 60vh;
     width: 100%;
     padding: 100px 0px;
